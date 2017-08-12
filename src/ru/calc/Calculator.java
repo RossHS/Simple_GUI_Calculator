@@ -286,7 +286,7 @@ public class Calculator{
             result = 0;
             y = 0;
             x = 0;
-            operator = ' ';
+
             field.setText("");
         }
     }
